@@ -34,7 +34,6 @@
                                   'body' => 'You cannot undo this action.'
                               ])
                         </td>
-
                     </tr>
                     @endforeach
                 </tbody>
